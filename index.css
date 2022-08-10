@@ -82,3 +82,17 @@ li .details{
   line-height: 19px;
 }
 
+footer{
+  margin: 0 auto;
+  height: 50px;
+  background-color: whitesmoke;
+  border-top: 3px solid #f9dab0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+
+
